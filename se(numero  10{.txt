@@ -1,0 +1,11 @@
+se(numero > 10{
+ - código
+
+}SENÃO se(numero < 8)
+
+   - código
+
+}SENÃO{
+  - código
+
+}

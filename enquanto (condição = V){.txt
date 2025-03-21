@@ -1,0 +1,27 @@
+enquanto (condição = V){
+executa 
+
+enquanto( num < 3){ 
+
+                                     num++
+num ++  
+}                                    R  | 0
+                                     R  | 1
+                                     R  | 2
+                                     R  | 3
+                                     P  | 4
+
+                                     num-- 
+
+                                     R  | 3
+                                     R  | 2
+                                     R  | 1
+                                     P  | 0
+
+
+num = 3
+
+enquanto(num > 0){
+
+num --
+}

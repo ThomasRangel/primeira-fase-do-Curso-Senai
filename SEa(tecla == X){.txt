@@ -1,0 +1,9 @@
+SEa(tecla == "X"){
+
+SE(estaChao === verdadeiro){
+    - jogador pula
+
+  }SENÂO{
+    - jogador pula duplo
+  }
+}

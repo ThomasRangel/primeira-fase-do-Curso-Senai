@@ -1,0 +1,9 @@
+SE (vida >10){
+
+   SE (stamina > 0)
+
+ - CÓDIGO
+
+   }
+
+ }

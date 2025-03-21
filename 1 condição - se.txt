@@ -1,0 +1,16 @@
+1 condição -> se
+
+2 condição -> se / senão
+
+3 condições -> se / senão se / senão
+
+4 condições -> escolha se
+
+se(numero > 10)
+
+ - código
+
+}senão{
+ - código
+
+}
